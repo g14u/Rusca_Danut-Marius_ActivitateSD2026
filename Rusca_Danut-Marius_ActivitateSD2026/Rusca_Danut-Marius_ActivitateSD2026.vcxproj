@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="stiva.c" />
     <ClCompile Include="ex2.c" />
     <ClCompile Include="fisiere.c" />
     <ClCompile Include="seminar01.c" />

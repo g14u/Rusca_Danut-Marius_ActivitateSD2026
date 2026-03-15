@@ -27,5 +27,8 @@
     <ClCompile Include="fisiere.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stiva.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
